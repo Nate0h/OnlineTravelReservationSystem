@@ -1,4 +1,5 @@
 # OnlineTravelReservationSystem - CS336
+
 Customer Representative Functionality of the Online Travel Reservation System.
 
 In this project, you will design and implement a relational database system to support the operations of an online travel reservation system. You will use HTML for the user interface, MySQL for the database server, and Java, JDBC for connectivity between the user interface and the database server. You will have to install your own web server that will host your web application (Tomcat) as well as a MySQL server. 
