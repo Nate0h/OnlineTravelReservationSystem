@@ -7,10 +7,16 @@ In this project, you will design and implement a relational database system to s
 Customer-Representative-Level Functionality:
 
 Customer Representatives should be thought of as reservation agents and should be able to:
+
  Make flight reservations on behalf of users
+
  Edit flight reservations for a customer
+
  Reply to user’s questions
+
  Add, Edit, Delete information for aircrafts, airports and flights
+
  Retrieve a list of all the passengers who are on the waiting list of a particular flight
+
  Produce a list of all flights for a given airport (departing and arriving flights)
 
